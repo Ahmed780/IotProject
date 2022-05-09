@@ -1,3 +1,3 @@
 # IotProject
 
-THis is our iot project 
+THis is our smart home final project
